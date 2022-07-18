@@ -1,4 +1,4 @@
-import Image1 from "../assets/images/image1.jpg";
+import Image1 from "../assets/images/image3.jpg";
 
 const create360Viewer = require("360-image-viewer");
 const canvasFit = require("canvas-fit");
