@@ -1,13 +1,9 @@
-import { useEffect } from 'react';
 import './App.css';
 import {create360Image} from './components/Image360'
 import { Cursor } from 'react-creative-cursor';
 import 'react-creative-cursor/dist/styles.css';
 
 function App() {
-  // useEffect(() => {
-  //   create360Image()
-  // },[])
   return (
     <div className="App">
       <Cursor isGelly={true} />
